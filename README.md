@@ -1,1 +1,1 @@
-# Sistema de Inventario - Versión A (Rama A)
+# Sistema de Inventario - NovaTech Solutions (Conflicto Resuelto)
