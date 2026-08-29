@@ -1,2 +1,1 @@
-# Sistema de Inventario - NovaTech Solutions
-Proyecto de gestión de productos para NovaTech.
+# Sistema de Inventario - Versión A (Rama A)
